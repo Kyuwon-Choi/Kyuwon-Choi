@@ -21,9 +21,9 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyuwon-Choi&show_icons=true" alt="Kyuwon Choi's GitHub stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuwon-Choi&layout=compact" alt="Top Langs" style="width: 48%;"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyuwon-Choi&show_icons=true" alt="Kyuwon Choi's GitHub stats" style="width: 49%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuwon-Choi&layout=compact" alt="Top Langs" style="width: 49%; height: 200px;"/>
 </div>
 
 ## 📫 Connect with me
