@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyuwon-Choi&show_icons=true" alt="Kyuwon Choi's GitHub stats" style="width: 49%; height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuwon-Choi&layout=compact" alt="Top Langs" style="width: 49%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyuwon-Choi&show_icons=true" alt="Kyuwon Choi's GitHub stats" style="width: 100%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuwon-Choi&layout=compact" alt="Top Langs" style="width: 100%; height: 200px;"/>
 </div>
 
 ## 📫 Connect with me
