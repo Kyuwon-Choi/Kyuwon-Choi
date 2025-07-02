@@ -17,8 +17,8 @@ Bachelor of Computer Engineering
 ---
 
 ## Awards  
-- 2024 세종대학교 소프트웨어융합대학 SW X AI 해커톤 대상 (1st)
+- 2024 세종대학교 SW X AI 해커톤 대상 (1st)
 - 2024 세종대학교 컴퓨터공학과 학술제 우수상 (3rd)
 - 2024 세종대학교 창의학습공동체 최우수상 (1st)
 - 2025 Kakao x Goorm 기업 연계 프로젝트 인기상
-- 2025 세종대학교 인공지능융합대학 SW X AI 해커톤 장려상 (4th)
+- 2025 세종대학교 SW X AI 해커톤 장려상 (4th)
