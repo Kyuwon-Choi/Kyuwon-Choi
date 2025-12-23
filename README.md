@@ -23,4 +23,5 @@ Bachelor of Computer Engineering
 - 2025 Kakao x Goorm 기업 연계 프로젝트 인기상
 - 2025 세종대학교 SW X AI 해커톤 장려상 (4th)
 - 2025 세종대학교 전공심화공동체 우수상 (2nd)
+- 2025 세종대학교 컴퓨터공학과 학술제 최우수상 (1st)
 
